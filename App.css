@@ -1,0 +1,26 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f0f4f8;
+  margin: 0;
+  padding: 0;
+}
+
+.home {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.form-container {
+  margin: 20px auto;
+  width: 200px;
+  padding: 20px;
+  background-color: white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+label {
+  font-size: 18px;
+  display: block;
+  margin: 10px 0;
+}
